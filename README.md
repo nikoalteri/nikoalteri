@@ -6,9 +6,9 @@ Front-End developer
 
 I am a front-end developer with experience in creating responsive and engaging user interfaces using HTML, CSS, and JavaScript. I have also worked with ReactJS to create scalable and performant web applications. I am able to write clean and well-documented code that adheres to industry standards and is optimized for search engines. I have also a basic knowledge of Python and am currently learning back-end development to expand my skills and become an even more well-rounded web professional. In addition to my technical skills, I have also developed important soft skills such as the ability to work in teams, effective communication, and efficient time management. I am able to quickly adapt to new situations and creatively solve problems.
 
-* 🌍  I'm based in Prague
+* 🌍  I'm based in Rome
 * ✉️  You can contact me at [nikoalteri@outlook.it](mailto:nikoalteri@outlook.it)
-* 🧠  I'm learning Next.js
+* 🧠  I'm learning Node.js
 * 🤝  I'm open to collaborating on any kind of projects.
 
 ### Skills
